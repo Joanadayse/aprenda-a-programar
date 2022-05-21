@@ -1,8 +1,7 @@
-// Este é um comentário no código. Comentários não são executados, eles servem pra gente deixar alguma mensagem
-// para outras pessoas que forem ler o código. Agora vamos para o exercício.
+
 
 // Analise os 10 comandos 'if' a seguir e tente prever qual mensagem será exibida na tela.
-// Fique à vontade de rodar o código para verificar se suas respostas estão corretas. 
+ 
 
 let a = 10
 
