@@ -1,2 +1,2 @@
 # aprenda-a-programar
-~~imersão Ituring*
+**imersão Ituring**
